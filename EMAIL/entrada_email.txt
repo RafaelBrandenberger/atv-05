@@ -1,0 +1,9 @@
+emails válidos:
+rafael@email.com
+pessoa.teste123@dominio.org
+projeto+git@empresa-tech.co
+
+inválidos:
+rafael@email
+@dominio.com
+abc@.com
