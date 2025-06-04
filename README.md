@@ -98,11 +98,16 @@ aba
 </pre>
 
 ## Execução:
+cd nome da pasta
+
 `jflex exemplo.flex`
+nome do flex
 
 `javac Scanner.java`
+javac scannernome.java main.java
 
 `java Scanner entrada01.txt`
+nome da entrada
 
 `java Scanner entrada02.txt`
 
